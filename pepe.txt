@@ -1,5 +1,8 @@
 hola pepe
+<<<<<<< HEAD
 adios pepe
 awdwawd
 waddawdad
 
+=======
+>>>>>>> 2038c78680ddaa095afd3c975b231ded3b877357
